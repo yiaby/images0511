@@ -16,7 +16,7 @@
 	var index = 0;
 	
 	window.onload = function(){
-		setInterval("imageChange()",2000);  //1초마다 imageChange() 함수 호출
+		setInterval("imageChange()",2000);  //1초마다 imageChange() 함수 호출 aaaaaa
 	}
 	function imageChange(){
 		//var currentDate = new Date();
